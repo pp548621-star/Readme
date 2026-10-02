@@ -51,30 +51,6 @@ I enjoy working with **JavaScript, React, Next.js, Node.js, Java, C++, and datab
 
 ---
 
-## 📌 Featured Projects
-
-### 💰 Expense Tracker
-A full-stack expense tracking and budget management application.
-
-**Tech:** Next.js, TypeScript, Tailwind CSS, Prisma, MySQL, JWT
-
-### 📄 AI Resume Analyzer
-A web application that analyzes resumes and provides useful feedback for improving them.
-
-**Tech:** Next.js, React, Tailwind CSS, AI APIs
-
-### 📈 Mutual Fund Explorer
-A platform for exploring mutual funds, viewing NAV information, comparing funds, and calculating SIP investments.
-
-**Tech:** Next.js, React, MUI, JavaScript, MFAPI
-
-### 📚 Study Planner
-A productivity application for managing tasks, subjects, goals, calendar activities, and Pomodoro sessions.
-
-**Tech:** Next.js, React, Tailwind CSS
-
----
-
 ## 🧠 Problem Solving
 
 I regularly practice Data Structures & Algorithms and solve problems on platforms such as:
